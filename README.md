@@ -2,4 +2,4 @@
 
 [SDE-1 Interview Master Sheet](./SDE-1%20Interview%20Master-Sheet)
 
-[CHATGPT Shortcut Prompts](./ChatGPTPrompt%20Shortcuts)
+[ChatGPT Prompt Shortcuts](./ChatGPTPrompt%20Shortcuts.md)
